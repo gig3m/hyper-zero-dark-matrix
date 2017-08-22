@@ -1,0 +1,24 @@
+{
+  "name": "hyper-zero-dark-matrix",
+  "version": "0.1.0",
+  "description": "A dark theme for Hyper.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gig3m/hyper-zero-dark-matrix.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "theme",
+    "dark"
+  ],
+  "author": "Kyle Arrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gig3m/hyperterm-zero-dark-matrix/issues"
+  },
+  "homepage": "https://github.com/gig3m/hyperterm-zero-dark-matrix#readme"
+}
