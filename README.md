@@ -1,4 +1,4 @@
-# hyperterm-rocinante
+# hyperterm-zero-dark-matrix
 
 > A dark yet juicy theme for [Hyper.js](https://hyper.is)
 
